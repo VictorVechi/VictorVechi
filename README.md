@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋, Eu sou o Victor</h1>
-<h3 align="center">Aluno do 4° de informática no IFPR apaixonado pela programação</h3>
+<h3 align="center">Aluno do Bacharelado em Ciência da Computação do IFPR - Pinhais</h3>
 
-- 🌱 Estou aprendendo atualmente **Python**
+- 🌱 Estou aprendendo atualmente **HTML - CSS - JavaScript**
 
 - 👨‍💻 Meus projetos estão disponíveis em minha página no github [https://github.com/VictorVechi](https://github.com/VictorVechi)
 
-- 📫 Como me contatar **Victorhvechi@gmail.com**
+- 📫 Como me contatar **victorhvechi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
